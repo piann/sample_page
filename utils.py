@@ -1,2 +1,2 @@
-s = hex(10)
-print(s)
+import time
+time.sleep(10)
