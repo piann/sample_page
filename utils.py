@@ -1,2 +1,1 @@
-import time
-time.sleep(10)
+hex(20)
