@@ -1,5 +1,2 @@
-
-print("hello2")
-print("end")
-print()
-print(12345)
+print("hello1");
+print("after timemachine");
